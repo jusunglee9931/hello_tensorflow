@@ -11,10 +11,14 @@ GAN Temporary document
 <table align='center'>
 <tr align='center'>
  <td> Generate Distritubtion</td>
+ </tr>
+ <tr>
  <td> =Uniform(range = 8) </td>
  </tr>
 <tr align='center'>
  <td> Data Distribution </td>
+  </tr>
+ <tr>
  <td> =N(-3,1) </td>
  </tr>
 <tr>
