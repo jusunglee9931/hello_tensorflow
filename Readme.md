@@ -13,13 +13,13 @@ GAN Temporary document
  <td> Generate Distritubtion</td>
  </tr>
  <tr>
- <td> =Uniform(range = 8) </td>
+ <td> = Uniform(range = 8) </td>
  </tr>
 <tr align='center'>
  <td> Data Distribution </td>
   </tr>
  <tr>
- <td> =N(-3,1) </td>
+ <td> = N(-3,1) </td>
  </tr>
 <tr>
  <td><img src = 'img/output.gif' </td>
@@ -36,9 +36,9 @@ GAN Temporary document
  <td> Generate Distritubtion</td>
  </tr>
  <tr>
- <td> =Uniform(range = 8) </td>
-  <td> =Uniform(range = 8) </td>
-  <td> =Uniform(range = 8) </td>
+ <td> = Uniform(range = 8) </td>
+  <td> = Uniform(range = 8) </td>
+  <td> = Uniform(range = 8) </td>
  </tr>
 <tr align='center'>
  <td> Data Distribution </td>
@@ -46,9 +46,9 @@ GAN Temporary document
   <td> Data Distribution </td>
   </tr>
  <tr>
- <td> =N(0,1) </td>
-   <td> =N(0,2) </td>
-   <td> =N(0,0.5) </td>
+ <td> = N(0,1) </td>
+   <td> = N(0,2) </td>
+   <td> = N(0,0.5) </td>
  </tr>
 <tr>
  <td><img src = 'img/1dgan_1.png' </td>
