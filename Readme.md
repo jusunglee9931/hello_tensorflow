@@ -7,4 +7,4 @@ GAN Temporary document
 
 # Result
 
-![image]('/img/output.gif')
+![image](img/output.gif)
